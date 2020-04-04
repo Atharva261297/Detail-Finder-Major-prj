@@ -1,7 +1,0 @@
-{
-  "name": "Link Calculator",
-  "description": "A server backend for app link calculator",
-  "addons": [
-    "heroku-postgresql"
-  ]
-}

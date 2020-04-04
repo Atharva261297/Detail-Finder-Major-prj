@@ -1,1 +1,0 @@
-web: java -jar target/server-backend-0.1-SNAPSHOT.jar
